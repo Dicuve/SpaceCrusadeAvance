@@ -234,9 +234,6 @@ function createbalaA() {
   balaA.scale = 0.5;
   balaA.lifetime = 250;
   }
-  if (balaA.x === b1.x ){
-    b1.destroy();
-  }
 }
 
 
